@@ -63,3 +63,10 @@ footer {
   bottom: 0;
   width: 100%;
 }
+section {
+  margin-bottom: 2em;
+}
+#contact {
+    border-top: 2px solid #ccc;
+    padding-top: 20px;          
+}
