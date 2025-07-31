@@ -70,3 +70,6 @@ section {
     border-top: 2px solid #ccc;
     padding-top: 20px;          
 }
+#email{
+  display: none;
+}
